@@ -1,5 +1,5 @@
 # Django Project Started
---
+
 this is a project for for quickly getting started develop in django 
 projects using a basic template of project with commands.
 
