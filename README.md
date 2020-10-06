@@ -7,6 +7,6 @@ projects using a basic template of project with commands.
 
 ## Getting started
 
-1. git clone https://github.com/julio23my/django_project_started
+1. git clone https://github.com/julio23my/django_project_started.git
 2. create a virtualenv with `virtualenv env ` and install dependency 
 3. rename project with `python manage.py rename <yourprojectname> <newprojectname>`
