@@ -1,6 +1,6 @@
 # Django Project Started
 
-this is a project for for quickly getting started develop in django 
+This is a project for for quickly getting started develop in django 
 projects using a basic template of project with commands.
 
 ![alt text](https://cdn.swapps.com/uploads/2019/04/django-faster.jpg)
