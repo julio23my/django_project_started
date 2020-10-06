@@ -139,3 +139,4 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 static_files/
+.idea/vcs.xml
